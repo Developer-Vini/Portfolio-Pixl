@@ -1,17 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&display=swap");
-
-:root {
-  --brand-color: #97edaa;
-
-  --dark-10: #0b0b0b;
-  --dark-20: #101010;
-  --dark-30: #1f1f1f;
-
-  --white: #ffffff;
-}
+@import url(reset.css);
+@import url(root.css);
+@import url(header.css);
 
 body {
   font-family: "Archivo", sans-serif;
   background-color: var(--dark-10);
-
+  color: white
 }
