@@ -12,4 +12,6 @@
 
 body {
   font-family: "Archivo", sans-serif;
+  background-color: var(--dark-10);
+
 }
