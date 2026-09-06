@@ -20,8 +20,3 @@ Site portfolio desenvolvido com HTML5 e CSS3, focado no backend mas com domínio
 - Design Responsivo
 - SVGs para ícones
 
-## Contato
-
-- E-mail: vkmarcio3@gmail.com
-- Instagram: @vini_zx0
-- Telefone: (83) 99351-5801
