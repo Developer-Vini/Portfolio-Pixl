@@ -10,31 +10,40 @@
 
 <body>
     <header>
-        <div class="logo">
-            <h1>&lt;Marcio Vinicius/&gt;</h1>
+        <div class="header-container">
+            <div class="logo">
+                <p>&lt;Marcio Vinicius/&gt;</p>
+            </div>
+            <nav>
+                <a href="#inicio">Inicio</a>
+                <a href="#sobre">Sobre mim</a>
+                <a href="#projetos">Projetos</a>
+                <a href="#servicos">Serviços</a>
+                <a href="#habilidades">Habilidades</a>
+            </nav>
         </div>
-        <nav>
-            <a href="#">Inicio</a>
-            <a href="#">Sobre mim</a>
-            <a href="#">Projetos</a>
-            <a href="#">Serviços</a>
-            <a href="#">Habilidades</a>
-        </nav>
     </header>
+    <hr class="linha-central">
 
-    <section class="hero">
-        <p>Olá, eu sou</p>
-        <h2>Marcio Vinicius</h2>
-        <p>Desenvolvedor Fullstack & UI Designer.</p>
+    <section class="hero" id="inicio">
+        <div class="hero-info">
+            <p>Olá, eu sou</p>
+            <h2>Marcio Vinicius</h2>
+            <p>Desenvolvedor Fullstack & UI Designer.</p>
+            <button>Baixar curriculo</button>
+        </div>
+
 
         <div class="img-hero_section">
             <img src="src/image/image.svg" alt="">
         </div>
     </section>
 
-    <section class="sobre-mim">
-        <p>
+    <section class="sobre-mim" id="sobre">
+        <h4>Sobre Mim</h4>
+        <p class="descriptrion">
             Meu nome é Marcio Vinicius, sou Desenvolvedor Full Stack com foco e preferência pelo Backend. Desenvolvo
+            <br>
             tanto o lado visual quanto a estrutura de servidores e bancos de dados para criar aplicações completas.
         </p>
 
@@ -63,54 +72,54 @@
             </div>
         </div>
     </section>
-    <section class="hub-projetos">
+    <section class="hub-projetos" id="projetos">
 
         <h4>Projetos</h4>
 
         <div class="projetos">
 
             <div class="projeto">
-                <img src="" alt="">
-                <p>Nome do projeto</p>
-                <p>Tecnologias usadas no projeto</p>
+                <img src="src/projetos/Linguagemdeprogramacao.png" alt="Projeto 1">
+                <p>Linguagem de Prgramação</p>
+                <p>C</p>
                 <div class="botoes">
-                    <a href="">Acessar o projeto</a>
-                    <a href="">Acessar repositorio</a>
+                    <a href="#" target="_blank">Acessar o projeto</a>
+                    <a href="https://github.com/Developer-Vini/ManScript" target="_blank">Acessar repositorio</a>
                 </div>
             </div>
 
             <div class="projeto">
-                <img src="" alt="">
-                <p>Nome do projeto</p>
-                <p>Tecnologias usadas no projeto</p>
+                <img src="src/projetos/freewaygame.png" alt="Projeto 2">
+                <p>Freeway Game</p>
+                <p>HTML, CSS e JavaScript</p>
                 <div class="botoes">
-                    <a href="">Acessar o projeto</a>
-                    <a href="">Acessar repositorio</a>
+                    <a href="https://developer-vini.github.io/freeway-js/" target="_blank">Acessar o projeto</a>
+                    <a href="https://github.com/Developer-Vini/Freeway-JS" target="_blank">Acessar repositorio</a>
                 </div>
             </div>
 
             <div class="projeto">
-                <img src="" alt="">
-                <p>Nome do projeto</p>
-                <p>Tecnologias usadas no projeto</p>
+                <img src="src/projetos/EmuladorNES.png" alt="Projeto 3">
+                <p>Emulador de NES</p>
+                <p>C</p>
                 <div class="botoes">
-                    <a href="">Acessar o projeto</a>
-                    <a href="">Acessar repositorio</a>
+                    <a href="#" target="_blank">Acessar o projeto</a>
+                    <a href="https://github.com/Developer-Vini/NESEmu" target="_blank">Acessar repositorio</a>
                 </div>
             </div>
             <div class="projeto">
-                <img src="" alt="">
-                <p>Nome do projeto</p>
-                <p>Tecnologias usadas no projeto</p>
+                <img src="src/projetos/paginaweb.png" alt="Projeto 4">
+                <p>Landing Page Corporativa</p>
+                <p>HTML, CSS, JavaScript, GSAP</p>
                 <div class="botoes">
-                    <a href="">Acessar o projeto</a>
-                    <a href="">Acessar repositorio</a>
+                    <a href="https://developer-vini.github.io/la-cafeteria/" target="_blank">Acessar o projeto</a>
+                    <a href="https://github.com/Developer-Vini/la-cafeteria" target="_blank">Acessar repositorio</a>
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="servicos">
+    <section class="servicos" id="servicos">
         <h4>Serviços</h4>
         <div class="cards-servico">
             <div class="card-servico">
@@ -128,7 +137,7 @@
         </div>
     </section>
 
-    <section class="habilidades-section">
+    <section class="habilidades-section" id="habilidades">
         <div class="habilidades">
             <div class="habilidade">
                 <img src="src/image/html.svg" alt="">
@@ -153,10 +162,10 @@
     <footer>
         <div class="informacoes-footer">
             <div class="informacao">
-                @ 2022 - Iuri Silva
+                &copy; 2024 Marcio Vinicius
             </div>
             <div class="informacao">
-                Powered by <img src="src/image/logo.svg" alt="">
+                Powered by <img src="src/image/logo.svg" alt="Pixl">
             </div>
         </div>
     </footer>
