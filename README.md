@@ -23,8 +23,7 @@ Este é o meu site portfólio pessoal desenvolvido para o desafio da **PIXL (Hub
 
 ## 🔗 Links Importantes
 
-- **Live Demo (Site no ar):** [Insira aqui o link da Vercel / GitHub Pages]
-- **Repositório:** [Insira aqui o link deste repositório do GitHub]
+- **Live Demo (Site no ar):** [https://portfolinhopixl.netlify.app/]
 
 ## 📬 Vamos nos conectar?
 - **LinkedIn:** [www.linkedin.com/in/márcio-vinicius-090074363]
