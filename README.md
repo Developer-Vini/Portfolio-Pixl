@@ -1,22 +1,30 @@
-# Portfolio Pixl
+# 🌐 Portfolio Pessoal — Marcio Vinicius
 
-Portfolio pessoal de Marcio Vinicius - Desenvolvedor Full Stack & UI Designer.
+> **Desenvolvedor Full Stack & UI Designer focado em criar soluções robustas de backend combinadas com interfaces limpas e intuitivas.** 🛠️
 
-## Sobre
+Este é o meu site portfólio pessoal desenvolvido para o desafio da **PIXL (Hub)**. O objetivo foi criar uma página de construtor minimalista, rápida e com a minha própria identidade visual, utilizando apenas tecnologias web nativas.
 
-Site portfolio desenvolvido com HTML5 e CSS3, focado no backend mas com domínio fullstack. O projeto apresenta:
+---
 
-- Seção Hero com apresentação pessoal
-- Sobre mim com informações de contato
-- Projetos realizados com tecnologias utilizadas
-- Serviços oferecidos
-- Habilidades técnicas
-- Design responsivo e moderno
+## 🚀 O que o projeto apresenta
+- **Seção Hero:** Apresentação pessoal direta e alinhada com meu foco profissional.
+- **Sobre Mim:** Detalhes da minha trajetória e links de contato rápido.
+- **Projetos:** Galeria com o que já desenvolvi e as tecnologias aplicadas.
+- **Serviços & Habilidades:** Visão geral do que posso construir (Full Stack & UI Design).
+- **Design Moderno:** Totalmente responsivo utilizando técnicas modernas de layout.
 
-## Tecnologias
+## 🛠️ Tecnologias Utilizadas
+- **HTML5** (Estrutura semântica)
+- **CSS3** (Layouts com Flexbox, Grid e variáveis para customização de cores)
+- **Design Responsivo** (Focado na experiência mobile e desktop)
+- **SVGs** (Ícones leves e vetorizados)
 
-- HTML5
-- CSS3 (Grid, Flexbox, Variáveis CSS)
-- Design Responsivo
-- SVGs para ícones
+---
 
+## 🔗 Links Importantes
+
+- **Live Demo (Site no ar):** [Insira aqui o link da Vercel / GitHub Pages]
+- **Repositório:** [Insira aqui o link deste repositório do GitHub]
+
+## 📬 Vamos nos conectar?
+- **LinkedIn:** [www.linkedin.com/in/márcio-vinicius-090074363]
