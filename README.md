@@ -65,3 +65,6 @@ If something doesn't look right, first check that your `index.html` is correctly
 # To check if your HTML is well-formed
 open index.html
 ```
+
+ ## License  
+ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.MD) file for details.
