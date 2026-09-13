@@ -1,29 +1,67 @@
-# 🌐 Portfolio Pessoal — Marcio Vinicius
+# Pixl Portfolio
 
-> **Desenvolvedor Full Stack & UI Designer focado em criar soluções robustas de backend combinadas com interfaces limpas e intuitivas.** 🛠️
+A simple personal portfolio made with HTML5 and CSS3 to show my projects, skills, and the services I offer. I wanted to keep the design clean and straightforward, without making the site unnecessarily complicated.
 
-Este é o meu site portfólio pessoal desenvolvido para o desafio da **PIXL (Hub)**. O objetivo foi criar uma página de construtor minimalista, rápida e com a minha própria identidade visual, utilizando apenas tecnologias web nativas.
+## Description
 
----
+Pixl Portfolio is a personal portfolio I created to present my work as a Full Stack developer and UI designer, with a focus on backend development.
 
-## 🚀 O que o projeto apresenta
-- **Seção Hero:** Apresentação pessoal direta e alinhada com meu foco profissional.
-- **Sobre Mim:** Detalhes da minha trajetória e links de contato rápido.
-- **Projetos:** Galeria com o que já desenvolvi e as tecnologias aplicadas.
-- **Serviços & Habilidades:** Visão geral do que posso construir (Full Stack & UI Design).
-- **Design Moderno:** Totalmente responsivo utilizando técnicas modernas de layout.
+The whole website was built from scratch using HTML5 and CSS3, without relying on a framework. I used CSS Grid and Flexbox to organize the layout and make it responsive on different screen sizes.
 
-## 🛠️ Tecnologias Utilizadas
-- **HTML5** (Estrutura semântica)
-- **CSS3** (Layouts com Flexbox, Grid e variáveis para customização de cores)
-- **Design Responsivo** (Focado na experiência mobile e desktop)
-- **SVGs** (Ícones leves e vetorizados)
+The portfolio includes an introduction section, an About section with my contact information, a place to showcase my projects with GitHub links and live demos, a Services section, and a Skills section with the technologies I work with.
 
----
+I also made sure the layout works well on both phones and desktops. The idea was to create something simple that I could easily understand, change, and keep improving as I add more projects.
 
-## 🔗 Links Importantes
+## Screenshots
 
-- **Live Demo (Site no ar):** [https://portfolinhopixl.netlify.app/]
+![Portfolio Pixl screenshot](src/image/Imagem%20colada.png)
 
-## 📬 Vamos nos conectar?
-- **LinkedIn:** [www.linkedin.com/in/márcio-vinicius-090074363]
+## Getting Started
+
+### Dependencies
+
+- Any modern web browser (Chrome, Firefox, Edge, Safari, etc.)
+- Just your source code — no build tools or dependencies required
+- No special operating system requirements
+
+### Installing
+
+1. Clone or download this repository to your local machine:
+
+```bash
+git clone https://github.com/yourusername/portfolio-pixl.git
+```
+
+2. Open the project folder in your favorite code editor.
+
+3. No additional setup is needed — just open `index.html` directly in your browser. If you want to edit, the styles live in `src/css/` and the assets (icons, images, project screenshots) are in `src/image/` and `src/projetos/`.
+
+### Executing program
+
+To view the website locally:
+
+1. Navigate to the project folder.
+2. Open `index.html` in your browser:
+
+```bash
+open index.html
+```
+
+or simply double-click `index.html` in your file explorer.
+
+Alternatively, if you have a local development server like [Live Server](https://marketplace.visualstudio.com/extensions/ritwickdey.liveserver) or `python`:
+
+```bash
+python -m http.server
+```
+
+Then open `http://localhost:8000` in your browser.
+
+### Help
+
+If something doesn't look right, first check that your `index.html` is correctly linking to the CSS files in `src/css/`. A quick way to test is to open the browser's developer tools (`F12` or `Ctrl/Cmd + Shift + I`) and look at the Console tab for any errors.
+
+```bash
+# To check if your HTML is well-formed
+open index.html
+```
